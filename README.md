@@ -23,7 +23,8 @@
 <p align="left">
 <!--  <a href="https://twitter.com/adarsha59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsha59" height="30" width="40" /></a>  -->
 <a href="https://linkedin.com/in/Shyam Kshetri-67a651317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shyam-Kshetri-67a651317" height="30" width="40" /></a>
-<a href="https://fb.com/Shyam Kshetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shyam_Kshetri" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006122597094&mibextid=LQQJ4d
+  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shyam_Kshetri" height="30" width="40" /></a>
 <a href="https://instagram.com/kshetri.shyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyam_kshetri" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/c/@moviehunt59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@moviehunt59" height="30" width="40" /></a>
 </p> -->
