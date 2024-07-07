@@ -1,5 +1,6 @@
 # ShyamKshetri
 <h1 align="center">Hey 👋, I'm Shyam Kshetri</h1>
+<h3 align="center"> I am currently studying Electronics and Communication Engineering at NCIT</h3>
 
 <h3 align="center">A passionate Technology Innovation and Problem Solving from Nepal</h3>
 
